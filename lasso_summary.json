@@ -1,0 +1,20 @@
+[
+  {
+    "n_rows":288,
+    "n_features":40,
+    "cv_folds":10,
+    "alpha_min":0.0005308308,
+    "log10_alpha_min":-3.2750438477,
+    "alpha_1se":0.0018521226,
+    "log10_alpha_1se":-2.7323302798,
+    "min_cv_mse":0.0722113709,
+    "min_cv_se":0.0164809939,
+    "n_nonzero_at_min":36,
+    "zero_features":[
+      "Gly",
+      "Leu",
+      "Thr",
+      "Val"
+    ]
+  }
+]
